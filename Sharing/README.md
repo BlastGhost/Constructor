@@ -1,6 +1,8 @@
 # Sharing
 
 
+### Fr
+
 Merci de créer un dossier avec pour nom votre TAG Discord
 
 Le nom des fichiers à l'intérieur doivent être explicite
@@ -15,6 +17,8 @@ Essayez de documenter un minimum votre code, en francais ou en anglais, mais de 
 
 
 
+
+### En
 
 Please create a folder with the name of your Discord TAG
 
