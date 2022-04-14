@@ -1,4 +1,4 @@
-#Sharing
+# Sharing
 
 
 Merci de créer un dossier avec pout nom votre TAG Discord
